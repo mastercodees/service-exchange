@@ -1,0 +1,41 @@
+.how {
+  display: flex;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: larger;
+  flex-direction: column;
+  min-height: 50vh;
+  padding-top: 4rem;
+}
+
+.how > h2 {
+  font-size: 40px;
+}
+
+.wrapper {
+  display: flex;
+  gap: 2rem;
+  margin: auto;
+}
+
+.circle {
+  width: 4rem;
+  height: 4rem;
+  background-color: white;
+  color: black;
+  border-radius: 2rem;
+  text-align: center;
+  margin: auto;
+}
+
+.step {
+  text-align: center;
+}
+
+.step p {
+  align-items: center;
+  place-content: center;
+  align-self: center;
+  margin: auto;
+}
