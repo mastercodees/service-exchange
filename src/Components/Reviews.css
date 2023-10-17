@@ -1,0 +1,21 @@
+.reviews {
+  background-color: black;
+  min-height: 50vh;
+  color: white;
+}
+
+.reviews h3 {
+  text-align: center;
+  padding-top: 2rem;
+  font-size: x-large;
+}
+
+.reviews__container {
+  margin-top: 4rem;
+  text-align: center;
+  display: flex;
+}
+
+.review {
+  margin: auto;
+}
