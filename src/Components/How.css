@@ -39,3 +39,9 @@
   align-self: center;
   margin: auto;
 }
+
+.how p {
+  padding: 1rem;
+  font-weight: 500;
+  font-size: normal;
+}
