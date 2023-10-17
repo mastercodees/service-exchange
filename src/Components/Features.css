@@ -1,0 +1,22 @@
+.features {
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.features h2 {
+  text-align: center;
+  color: black;
+  padding-top: 2rem;
+  font-size: 2rem;
+}
+
+.first__div {
+  display: flex;
+  flex-direction: row;
+}
+
+.second__div {
+  display: flex;
+  flex-direction: row;
+}
