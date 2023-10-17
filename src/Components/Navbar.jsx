@@ -34,7 +34,7 @@ export default function App() {
             </MDBNavbarLink>
             <MDBNavbarLink href='#'>About</MDBNavbarLink>
             <MDBNavbarLink href='#'>Contact</MDBNavbarLink>
-            <MDBNavbarLink href='#'>Login</MDBNavbarLink>
+            <MDBNavbarLink href='/login'>Login</MDBNavbarLink>
            
           </MDBNavbarNav>
         </MDBCollapse>
